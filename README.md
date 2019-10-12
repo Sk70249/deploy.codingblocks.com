@@ -9,3 +9,7 @@ Use `python -m SimpleHTTPServer` or node's `http-server` to open
 on localhost and preview.
 
 The CSS is a custom build of bootstrap - https://www.jsdelivr.com/package/npm/@coding-blocks/bootstrap
+
+##Contact Details
+
+For More information Visit here - https://codingblocks.com/centres/
